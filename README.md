@@ -14,11 +14,11 @@ JavaScript, HTML, CSS, and D3.js
 Based on search criteria the code allowed the user to filter the table for specific values (please find the table at the very end). 
 
 ## Deliverable 1: Filter UFO sightings on multiple criteria 
-Multiple search criteria for users:- 
-Type the date into date field
-Choose city, state, country, and shape at the same time in lower case.  
-No space at the end of the text 
-Finally click enter 
+###### Multiple search criteria for users:- 
+###### Type the date into date field
+###### Choose city, state, country, and shape at the same time in lower case.  
+###### No space at the end of the text 
+###### Finally click enter 
 
 ## Drawbacks:
 The data don’t have all dates for the months of January. Therefore, the user must know the specific dates, also specific cities, and shapes. 
